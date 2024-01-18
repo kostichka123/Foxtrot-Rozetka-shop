@@ -1,0 +1,56 @@
+body{
+        font-size:30px;
+        background-color:turquoise;
+}
+
+header{
+    
+    color:rgb(10, 75, 255);
+}
+
+
+.red{
+    color:red;
+}
+
+.green{
+    color:green;
+}
+.orange{
+
+    color: orangered;
+}
+.rozfox{
+     
+     width:700px;height:500px;
+}
+.rozetka-produkt{
+
+height:300px;
+}
+.foxtrot-produkt{
+
+width:600px;
+}
+a{
+    font-family:cursive;
+}
+.center{
+
+text-align: center;
+}
+footer{
+
+text-align: center;
+}
+td{
+
+padding:10px;
+border: 2px solid red;
+text-align:center;
+}
+table{
+margin-left:auto;
+margin-right:auto;
+
+}
